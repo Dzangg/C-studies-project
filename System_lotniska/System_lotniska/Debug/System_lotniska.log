@@ -1,0 +1,7 @@
+﻿  Lot.cpp
+C:\Users\Bartek\source\repos\polimorfizm_templ\System_lotniska\System_lotniska\Klient.h(72,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bartek\source\repos\polimorfizm_templ\System_lotniska\System_lotniska\Lot.cpp(52,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Bartek\source\repos\polimorfizm_templ\System_lotniska\System_lotniska\Lot.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bartek\source\repos\polimorfizm_templ\System_lotniska\System_lotniska\Lot.cpp(115,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bartek\source\repos\polimorfizm_templ\System_lotniska\System_lotniska\Lot.cpp(151,9): warning C4101: 'opcja': unreferenced local variable
+  System_lotniska.vcxproj -> C:\Users\Bartek\source\repos\polimorfizm_templ\System_lotniska\Debug\System_lotniska.exe
